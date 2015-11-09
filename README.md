@@ -2,7 +2,7 @@
 
 I've analyzed E-commerce data and webserver logs as part of 'Introduction to Hadoop and Mapreduce' udacity course offered by Cloudera
 
-#Sales Data Analysis
+#Sales data analysis
 
 -  Mapper and Reducer program to find the store with highest sales
 -  Mapper and Reducer program to maximum product sale amount
