@@ -1,6 +1,6 @@
 # Hadoop-and-Mapreduce-Cloudera
 
-I've analyzed E-commerce data and webserver logs as part of 'Introduction to Hadoop and Mapreduce' udacity course offered by Cloudera
+I've analyzed E-commerce data and webserver logs as part of [*"Introduction to Hadoop and Mapreduce"*] (https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) Udacity course offered by Cloudera.
 
 #Sales data analysis
 
